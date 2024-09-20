@@ -1,1 +1,3 @@
-flask
+Flask
+azure-cognitiveservices-speech
+requests
