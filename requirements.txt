@@ -1,3 +1,4 @@
 Flask
 azure-cognitiveservices-speech
 requests
+aiortc
