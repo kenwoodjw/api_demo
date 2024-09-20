@@ -2,3 +2,6 @@ Flask
 azure-cognitiveservices-speech
 requests
 aiortc
+opencv-python
+aiohttp
+av
